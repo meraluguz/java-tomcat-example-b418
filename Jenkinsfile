@@ -3,12 +3,12 @@ pipeline {
     stages {
         stage('Build Application') {
              steps{
-                build job: 'build-web-application'
+                build job: 'build-web-app'
             }
         }
         stage('Deploy Application'){
             steps{
-                build job: 'Deploy-Application'
+                build job: 'deploy-app'
             }            
         
         
