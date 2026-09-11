@@ -6,5 +6,8 @@
   <h3> You are doing good work ... </h3>
   <h3> Poll scm Trigger ile build oluşturuldu ve deploy job tetiklendi. ... </h3>
   <h3> Pipeline olustu. ... </h3>
+<h3> Pipeline olustu. ... </h3>
+<h3> Pipeline olustu. ... </h3>
+<h3> Pipeline olustu. ... </h3>
 </body>
 </html>
